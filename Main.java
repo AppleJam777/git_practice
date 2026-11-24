@@ -3,3 +3,4 @@ public class Main {
         System.out.println("hello git");
     }
 }
+//practicing merging and branching
